@@ -1,2 +1,8 @@
 # codecollection-authors
-[Public] An index of RunWhen codecollection authors and issues list - Managed by terraform
+[Public] Please check the Issues tab for code bundle requests.  
+
+(This repo has no code, just issues.)
+
+
+
+Managed by terraform
